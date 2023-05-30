@@ -1,0 +1,7 @@
+{
+    "domain":"ei2ha",
+    "name": "Electric Ireland to Home Assistant",
+    "iot_class": "cloud_polling",
+    "requirements": ["mysql-connector-python"],
+    "version": "0.0.2"
+}
